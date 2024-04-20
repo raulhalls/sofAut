@@ -1625,6 +1625,10 @@ blockquote cite:before {
   transition: all 0.3s ease 0s;
   background: transparent;
 }
+#menu-area-dinamic {
+  transition: all 0.3s ease 0s;
+  background: black;
+}
 .full-width-header .rs-header .menu-area .row-table {
   display: flex;
   width: 100%;
@@ -3572,6 +3576,7 @@ body .search-modal .close:hover {
 }
 .rs-iconbox-area .box-inner .box-item .text-area .services-txt {
   margin: 0;
+  line-height: 1.8;
 }
 /* ------------------------------------
     12. Skill-bar Section CSS
